@@ -1,0 +1,828 @@
+[
+  {
+    "position": 1,
+    "name": "Hydrogen",
+    "jpn": "水素",
+    "weight": 1.00794,
+    "symbol": "H"
+  },
+  {
+    "position": 2,
+    "name": "Helium",
+    "jpn": "ヘリウム",
+    "weight": 4.002602,
+    "symbol": "He"
+  },
+  {
+    "position": 3,
+    "name": "Lithium",
+    "jpn": "リチウム",
+    "weight": 6.941,
+    "symbol": "Li"
+  },
+  {
+    "position": 4,
+    "name": "Beryllium",
+    "jpn": "ベリリウム",
+    "weight": 9.012182,
+    "symbol": "Be"
+  },
+  {
+    "position": 5,
+    "name": "Boron",
+    "jpn": "ホウ素",
+    "weight": 10.811,
+    "symbol": "B"
+  },
+  {
+    "position": 6,
+    "name": "Carbon",
+    "jpn": "炭素",
+    "weight": 12.0107,
+    "symbol": "C"
+  },
+  {
+    "position": 7,
+    "name": "Nitrogen",
+    "jpn": "窒素",
+    "weight": 14.0067,
+    "symbol": "N"
+  },
+  {
+    "position": 8,
+    "name": "Oxygen",
+    "jpn": "酸素",
+    "weight": 15.9994,
+    "symbol": "O"
+  },
+  {
+    "position": 9,
+    "name": "Fluorine",
+    "jpn": "フッ素",
+    "weight": 18.9984032,
+    "symbol": "F"
+  },
+  {
+    "position": 10,
+    "name": "Neon",
+    "jpn": "ネオン",
+    "weight": 20.1797,
+    "symbol": "Ne"
+  },
+  {
+    "position": 11,
+    "name": "Sodium",
+    "jpn": "ナトリウム",
+    "weight": 22.98976928,
+    "symbol": "Na"
+  },
+  {
+    "position": 12,
+    "name": "Magnesium",
+    "jpn": "マグネシウム",
+    "weight": 24.305,
+    "symbol": "Mg"
+  },
+  {
+    "position": 13,
+    "name": "Aluminium",
+    "jpn": "アルミニウム",
+    "weight": 26.9815386,
+    "symbol": "Al"
+  },
+  {
+    "position": 14,
+    "name": "Silicon",
+    "jpn": "ケイ素",
+    "weight": 28.0855,
+    "symbol": "Si"
+  },
+  {
+    "position": 15,
+    "name": "Phosphorus",
+    "jpn": "リン",
+    "weight": 30.973762,
+    "symbol": "P"
+  },
+  {
+    "position": 16,
+    "name": "Sulfur",
+    "jpn": "硫黄",
+    "weight": 32.065,
+    "symbol": "S"
+  },
+  {
+    "position": 17,
+    "name": "Chlorine",
+    "jpn": "塩素",
+    "weight": 35.453,
+    "symbol": "Cl"
+  },
+  {
+    "position": 18,
+    "name": "Argon",
+    "jpn": "アルゴン",
+    "weight": 39.948,
+    "symbol": "Ar"
+  },
+  {
+    "position": 19,
+    "name": "Potassium",
+    "jpn": "カリウム",
+    "weight": 39.0983,
+    "symbol": "K"
+  },
+  {
+    "position": 20,
+    "name": "Calcium",
+    "jpn": "カルシウム",
+    "weight": 40.078,
+    "symbol": "Ca"
+  },
+  {
+    "position": 21,
+    "name": "Scandium",
+    "jpn": "スカンジウム",
+    "weight": 44.955912,
+    "symbol": "Sc"
+  },
+  {
+    "position": 22,
+    "name": "Titanium",
+    "jpn": "チタン",
+    "weight": 47.867,
+    "symbol": "Ti"
+  },
+  {
+    "position": 23,
+    "name": "Vanadium",
+    "jpn": "バナジウム",
+    "weight": 50.9415,
+    "symbol": "V"
+  },
+  {
+    "position": 24,
+    "name": "Chromium",
+    "jpn": "クロム",
+    "weight": 51.9961,
+    "symbol": "Cr"
+  },
+  {
+    "position": 25,
+    "name": "Manganese",
+    "jpn": "マンガン",
+    "weight": 54.938045,
+    "symbol": "Mn"
+  },
+  {
+    "position": 26,
+    "name": "Iron",
+    "jpn": "鉄",
+    "weight": 55.845,
+    "symbol": "Fe"
+  },
+  {
+    "position": 27,
+    "name": "Cobalt",
+    "jpn": "コバルト",
+    "weight": 58.933195,
+    "symbol": "Co"
+  },
+  {
+    "position": 28,
+    "name": "Nickel",
+    "jpn": "ニッケル",
+    "weight": 58.6934,
+    "symbol": "Ni"
+  },
+  {
+    "position": 29,
+    "name": "Copper",
+    "jpn": "銅",
+    "weight": 63.546,
+    "symbol": "Cu"
+  },
+  {
+    "position": 30,
+    "name": "Zinc",
+    "jpn": "亜鉛",
+    "weight": 65.38,
+    "symbol": "Zn"
+  },
+  {
+    "position": 31,
+    "name": "Gallium",
+    "jpn": "ガリウム",
+    "weight": 69.723,
+    "symbol": "Ga"
+  },
+  {
+    "position": 32,
+    "name": "Germanium",
+    "jpn": "ゲルマニウム",
+    "weight": 72.64,
+    "symbol": "Ge"
+  },
+  {
+    "position": 33,
+    "name": "Arsenic",
+    "jpn": "ヒ素",
+    "weight": 74.9216,
+    "symbol": "As"
+  },
+  {
+    "position": 34,
+    "name": "Selenium",
+    "jpn": "セレン",
+    "weight": 78.96,
+    "symbol": "Se"
+  },
+  {
+    "position": 35,
+    "name": "Bromine",
+    "jpn": "臭素",
+    "weight": 79.904,
+    "symbol": "Br"
+  },
+  {
+    "position": 36,
+    "name": "Krypton",
+    "jpn": "クリプトン",
+    "weight": 83.798,
+    "symbol": "Kr"
+  },
+  {
+    "position": 37,
+    "name": "Rubidium",
+    "jpn": "ルビジウム",
+    "weight": 85.4678,
+    "symbol": "Rb"
+  },
+  {
+    "position": 38,
+    "name": "Strontium",
+    "jpn": "ストロンチウム",
+    "weight": 87.62,
+    "symbol": "Sr"
+  },
+  {
+    "position": 39,
+    "name": "Yttrium",
+    "jpn": "イットリウム",
+    "weight": 88.90585,
+    "symbol": "Y"
+  },
+  {
+    "position": 40,
+    "name": "Zirconium",
+    "jpn": "ジルコニウム",
+    "weight": 91.224,
+    "symbol": "Zr"
+  },
+  {
+    "position": 41,
+    "name": "Niobium",
+    "jpn": "ニオブ",
+    "weight": 92.90638,
+    "symbol": "Nb"
+  },
+  {
+    "position": 42,
+    "name": "Molybdenum",
+    "jpn": "モリブデン",
+    "weight": 95.96,
+    "symbol": "Mo"
+  },
+  {
+    "position": 43,
+    "name": "Technetium",
+    "jpn": "テクネチウム",
+    "weight": 98.9063,
+    "symbol": "Tc"
+  },
+  {
+    "position": 44,
+    "name": "Ruthenium",
+    "jpn": "ルテニウム",
+    "weight": 101.07,
+    "symbol": "Ru"
+  },
+  {
+    "position": 45,
+    "name": "Rhodium",
+    "jpn": "ロジウム",
+    "weight": 102.9055,
+    "symbol": "Rh"
+  },
+  {
+    "position": 46,
+    "name": "Palladium",
+    "jpn": "パラジウム",
+    "weight": 106.42,
+    "symbol": "Pd"
+  },
+  {
+    "position": 47,
+    "name": "Silver",
+    "jpn": "銀",
+    "weight": 107.8682,
+    "symbol": "Ag"
+  },
+  {
+    "position": 48,
+    "name": "Cadmium",
+    "jpn": "カドミウム",
+    "weight": 112.411,
+    "symbol": "Cd"
+  },
+  {
+    "position": 49,
+    "name": "Indium",
+    "jpn": "インジウム",
+    "weight": 114.818,
+    "symbol": "In"
+  },
+  {
+    "position": 50,
+    "name": "Tin",
+    "jpn": "スズ",
+    "weight": 118.71,
+    "symbol": "Sn"
+  },
+  {
+    "position": 51,
+    "name": "Antimony",
+    "jpn": "アンチモン",
+    "weight": 121.76,
+    "symbol": "Sb"
+  },
+  {
+    "position": 52,
+    "name": "Tellurium",
+    "jpn": "テルル",
+    "weight": 127.6,
+    "symbol": "Te"
+  },
+  {
+    "position": 53,
+    "name": "Iodine",
+    "jpn": "ヨウ素",
+    "weight": 126.90447,
+    "symbol": "I"
+  },
+  {
+    "position": 54,
+    "name": "Xenon",
+    "jpn": "キセノン",
+    "weight": 131.293,
+    "symbol": "Xe"
+  },
+  {
+    "position": 55,
+    "name": "Caesium[注 3]",
+    "jpn": "セシウム",
+    "weight": 132.9054519,
+    "symbol": "Cs"
+  },
+  {
+    "position": 56,
+    "name": "Barium",
+    "jpn": "バリウム",
+    "weight": 137.327,
+    "symbol": "Ba"
+  },
+  {
+    "position": 57,
+    "name": "Lanthanum",
+    "jpn": "ランタン",
+    "weight": 138.90547,
+    "symbol": "La"
+  },
+  {
+    "position": 58,
+    "name": "Cerium",
+    "jpn": "セリウム",
+    "weight": 140.116,
+    "symbol": "Ce"
+  },
+  {
+    "position": 59,
+    "name": "Praseodymium",
+    "jpn": "プラセオジム",
+    "weight": 140.90765,
+    "symbol": "Pr"
+  },
+  {
+    "position": 60,
+    "name": "Neodymium",
+    "jpn": "ネオジム",
+    "weight": 144.242,
+    "symbol": "Nd"
+  },
+  {
+    "position": 61,
+    "name": "Promethium",
+    "jpn": "プロメチウム",
+    "weight": 146.9151,
+    "symbol": "Pm"
+  },
+  {
+    "position": 62,
+    "name": "Samarium",
+    "jpn": "サマリウム",
+    "weight": 150.36,
+    "symbol": "Sm"
+  },
+  {
+    "position": 63,
+    "name": "Europium",
+    "jpn": "ユウロピウム",
+    "weight": 151.964,
+    "symbol": "Eu"
+  },
+  {
+    "position": 64,
+    "name": "Gadolinium",
+    "jpn": "ガドリニウム",
+    "weight": 157.25,
+    "symbol": "Gd"
+  },
+  {
+    "position": 65,
+    "name": "Terbium",
+    "jpn": "テルビウム",
+    "weight": 158.92535,
+    "symbol": "Tb"
+  },
+  {
+    "position": 66,
+    "name": "Dysprosium",
+    "jpn": "ジスプロシウム",
+    "weight": 162.5,
+    "symbol": "Dy"
+  },
+  {
+    "position": 67,
+    "name": "Holmium",
+    "jpn": "ホルミウム",
+    "weight": 164.93032,
+    "symbol": "Ho"
+  },
+  {
+    "position": 68,
+    "name": "Erbium",
+    "jpn": "エルビウム",
+    "weight": 167.259,
+    "symbol": "Er"
+  },
+  {
+    "position": 69,
+    "name": "Thulium",
+    "jpn": "ツリウム",
+    "weight": 168.93421,
+    "symbol": "Tm"
+  },
+  {
+    "position": 70,
+    "name": "Ytterbium",
+    "jpn": "イッテルビウム",
+    "weight": 173.054,
+    "symbol": "Yb"
+  },
+  {
+    "position": 71,
+    "name": "Lutetium",
+    "jpn": "ルテチウム",
+    "weight": 174.9668,
+    "symbol": "Lu"
+  },
+  {
+    "position": 72,
+    "name": "Hafnium",
+    "jpn": "ハフニウム",
+    "weight": 178.49,
+    "symbol": "Hf"
+  },
+  {
+    "position": 73,
+    "name": "Tantalum",
+    "jpn": "タンタル",
+    "weight": 180.94788,
+    "symbol": "Ta"
+  },
+  {
+    "position": 74,
+    "name": "Tungsten",
+    "jpn": "タングステン",
+    "weight": 183.84,
+    "symbol": "W"
+  },
+  {
+    "position": 75,
+    "name": "Rhenium",
+    "jpn": "レニウム",
+    "weight": 186.207,
+    "symbol": "Re"
+  },
+  {
+    "position": 76,
+    "name": "Osmium",
+    "jpn": "オスミウム",
+    "weight": 190.23,
+    "symbol": "Os"
+  },
+  {
+    "position": 77,
+    "name": "Iridium",
+    "jpn": "イリジウム",
+    "weight": 192.217,
+    "symbol": "Ir"
+  },
+  {
+    "position": 78,
+    "name": "Platinum",
+    "jpn": "白金",
+    "weight": 195.084,
+    "symbol": "Pt"
+  },
+  {
+    "position": 79,
+    "name": "Gold",
+    "jpn": "金",
+    "weight": 196.966569,
+    "symbol": "Au"
+  },
+  {
+    "position": 80,
+    "name": "Mercury",
+    "jpn": "水銀",
+    "weight": 200.59,
+    "symbol": "Hg"
+  },
+  {
+    "position": 81,
+    "name": "Thallium",
+    "jpn": "タリウム",
+    "weight": 204.3833,
+    "symbol": "Tl"
+  },
+  {
+    "position": 82,
+    "name": "Lead",
+    "jpn": "鉛",
+    "weight": 207.2,
+    "symbol": "Pb"
+  },
+  {
+    "position": 83,
+    "name": "Bismuth",
+    "jpn": "ビスマス",
+    "weight": 208.9804,
+    "symbol": "Bi"
+  },
+  {
+    "position": 84,
+    "name": "Polonium",
+    "jpn": "ポロニウム",
+    "weight": 208.9824,
+    "symbol": "Po"
+  },
+  {
+    "position": 85,
+    "name": "Astatine",
+    "jpn": "アスタチン",
+    "weight": 209.9871,
+    "symbol": "At"
+  },
+  {
+    "position": 86,
+    "name": "Radon",
+    "jpn": "ラドン",
+    "weight": 222.0176,
+    "symbol": "Rn"
+  },
+  {
+    "position": 87,
+    "name": "Francium",
+    "jpn": "フランシウム",
+    "weight": 223.0197,
+    "symbol": "Fr"
+  },
+  {
+    "position": 88,
+    "name": "Radium",
+    "jpn": "ラジウム",
+    "weight": 226.0254,
+    "symbol": "Ra"
+  },
+  {
+    "position": 89,
+    "name": "Actinium",
+    "jpn": "アクチニウム",
+    "weight": 227.0278,
+    "symbol": "Ac"
+  },
+  {
+    "position": 90,
+    "name": "Thorium",
+    "jpn": "トリウム",
+    "weight": 232.03806,
+    "symbol": "Th"
+  },
+  {
+    "position": 91,
+    "name": "Protactinium",
+    "jpn": "プロトアクチニウム",
+    "weight": 231.03588,
+    "symbol": "Pa"
+  },
+  {
+    "position": 92,
+    "name": "Uranium",
+    "jpn": "ウラン",
+    "weight": 238.02891,
+    "symbol": "U"
+  },
+  {
+    "position": 93,
+    "name": "Neptunium",
+    "jpn": "ネプツニウム",
+    "weight": 237.0482,
+    "symbol": "Np"
+  },
+  {
+    "position": 94,
+    "name": "Plutonium",
+    "jpn": "プルトニウム",
+    "weight": 244.0642,
+    "symbol": "Pu"
+  },
+  {
+    "position": 95,
+    "name": "Americium",
+    "jpn": "アメリシウム",
+    "weight": 243.0614,
+    "symbol": "Am"
+  },
+  {
+    "position": 96,
+    "name": "Curium",
+    "jpn": "キュリウム",
+    "weight": 247.0703,
+    "symbol": "Cm"
+  },
+  {
+    "position": 97,
+    "name": "Berkelium",
+    "jpn": "バークリウム",
+    "weight": 247.0703,
+    "symbol": "Bk"
+  },
+  {
+    "position": 98,
+    "name": "Californium",
+    "jpn": "カリホルニウム",
+    "weight": 251.0796,
+    "symbol": "Cf"
+  },
+  {
+    "position": 99,
+    "name": "Einsteinium",
+    "jpn": "アインスタイニウム",
+    "weight": 252.0829,
+    "symbol": "Es"
+  },
+  {
+    "position": 100,
+    "name": "Fermium",
+    "jpn": "フェルミウム",
+    "weight": 257.0951,
+    "symbol": "Fm"
+  },
+  {
+    "position": 101,
+    "name": "Mendelevium",
+    "jpn": "メンデレビウム",
+    "weight": 258.0986,
+    "symbol": "Md"
+  },
+  {
+    "position": 102,
+    "name": "Nobelium",
+    "jpn": "ノーベリウム",
+    "weight": 259.1009,
+    "symbol": "No"
+  },
+  {
+    "position": 103,
+    "name": "Lawrencium",
+    "jpn": "ローレンシウム",
+    "weight": 260.1053,
+    "symbol": "Lr"
+  },
+  {
+    "position": 104,
+    "name": "Rutherfordium",
+    "jpn": "ラザホージウム",
+    "weight": 261.1087,
+    "symbol": "Rf"
+  },
+  {
+    "position": 105,
+    "name": "Dubnium",
+    "jpn": "ドブニウム",
+    "weight": 262.1138,
+    "symbol": "Db"
+  },
+  {
+    "position": 106,
+    "name": "Seaborgium",
+    "jpn": "シーボーギウム",
+    "weight": 263.1182,
+    "symbol": "Sg"
+  },
+  {
+    "position": 107,
+    "name": "Bohrium",
+    "jpn": "ボーリウム",
+    "weight": 262.1229,
+    "symbol": "Bh"
+  },
+  {
+    "position": 108,
+    "name": "Hassium",
+    "jpn": "ハッシウム",
+    "weight": 277,
+    "symbol": "Hs"
+  },
+  {
+    "position": 109,
+    "name": "Meitnerium",
+    "jpn": "マイトネリウム",
+    "weight": 278,
+    "symbol": "Mt"
+  },
+  {
+    "position": 110,
+    "name": "Darmstadtium",
+    "jpn": "ダームスタチウム",
+    "weight": 281,
+    "symbol": "Ds"
+  },
+  {
+    "position": 111,
+    "name": "Roentgenium",
+    "jpn": "レントゲニウム",
+    "weight": 284,
+    "symbol": "Rg"
+  },
+  {
+    "position": 112,
+    "name": "Copernicium",
+    "jpn": "コペルニシウム",
+    "weight": 288,
+    "symbol": "Cn"
+  },
+  {
+    "position": 113,
+    "name": "Nihonium",
+    "jpn": "ニホニウム",
+    "weight": 293,
+    "symbol": "Nh"
+  },
+  {
+    "position": 114,
+    "name": "Flerovium",
+    "jpn": "フレロビウム",
+    "weight": 298,
+    "symbol": "Fl"
+  },
+  {
+    "position": 115,
+    "name": "Moscovium",
+    "jpn": "モスコビウム",
+    "weight": 299,
+    "symbol": "Mc"
+  },
+  {
+    "position": 116,
+    "name": "Livermorium",
+    "jpn": "リバモリウム",
+    "weight": 302,
+    "symbol": "Lv"
+  },
+  {
+    "position": 117,
+    "name": "Tennessine",
+    "jpn": "テネシン",
+    "weight": 310,
+    "symbol": "Ts"
+  },
+  {
+    "position": 118,
+    "name": "Oganesson",
+    "jpn": "オガネソン",
+    "weight": 314,
+    "symbol": "Og"
+  }
+]
